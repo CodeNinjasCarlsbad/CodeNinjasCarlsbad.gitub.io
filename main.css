@@ -1,0 +1,80 @@
+
+html {
+    background: #000000;
+    
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #777;
+  color: white;
+}
+.topnav {
+  background-color: #000;
+  overflow: auto;
+}github
+
+body {
+    background: #000;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.06);
+    color: #ffff00;
+    font-family: "Times New Roman", Times, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 2000px;
+    padding: 2em 2em 4em;
+    
+}
+
+html, body{
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0ff;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+    color: #903;     
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+audio {
+    
+}
